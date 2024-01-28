@@ -8,7 +8,7 @@ It would be nice if I could just write the quiz from home, but the quiz is locke
 
 In fact, it would be nice in general if I could visit a location with a network I want to use, leave a computer somewhere in the vicinty, and then remote into that computer so that I can explore the networks local to that device. 
 
-Essentially I need a router that I can remote into, but I need it to display a GUI so I can use web browsers on that router. That's what PiBox is. Yes I know PiBox is already known as a NAS. I can't think of a better name and I don't really care at this point. Let's build it first.
+Essentially I need a battery-powered router that I can remote into, but I need it to display a GUI so I can use web browsers on that router. That's the idea of PiBox. Yes I know PiBox is already known as a NAS. I can't think of a better name and I don't really care at this point. Let's build it first.
 
 See the reference links file to get acquainted with the the technologies involved. See the connection diagram to get a visual idea of the project - better diagrams are in the works.
 
