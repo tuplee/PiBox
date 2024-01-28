@@ -1,0 +1,7 @@
+https://help.realvnc.com/hc/en-us/articles/360002249917-VNC-Connect-and-Raspberry-Pi#raspberry-pi-setup
+https://www.raspberrypi.com/documentation/computers/remote-access.html#vnc
+https://maker.pro/raspberry-pi/tutorial/how-to-create-a-4g-hotspot-with-raspberry-pi
+https://www.jeffgeerling.com/blog/2022/using-4g-lte-wireless-modems-on-raspberry-pi
+https://www.jeffgeerling.com/blog/2021/working-multiple-wifi-interfaces-on-raspberry-pi
+https://piprojects.us/iptables-firewall-rules-for-your-pi/
+https://www.linode.com/docs/guides/control-network-traffic-with-iptables/
