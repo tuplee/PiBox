@@ -12,7 +12,7 @@ Essentially I need a battery-powered router that I can remote into, but I need i
 
 See the reference links file to get acquainted with the the technologies involved. See the connection diagram to get a visual idea of the project - better diagrams are in the works.
 
-There are definitely some kinks to work out still regarding routing behind CG-NAT, exactly how web browser traffic is routed from a LAN while VNC is running on another interface (probably an IPTables solution), power supply management (wake the system at a specific time and start VNC client + interfaces so battery power is prolonged).
+There are possibly some kinks to work out still regarding routing behind CG-NAT & power supply management (wake the system at a specific time and start VNC client + interfaces so battery power is prolonged).
 
 Anyways this is a fun but likely expensive project. 500ish seems like the low end, which means prototyping on my end won't be happening for another month. If you have the resources and the want, feel free to contribute!
 
