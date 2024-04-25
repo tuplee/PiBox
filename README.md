@@ -16,4 +16,6 @@ There are possibly some kinks to work out still regarding routing behind CG-NAT 
 
 Anyways this is a fun but likely expensive project. 500ish seems like the low end, which means prototyping on my end won't be happening for another month. If you have the resources and the want, feel free to contribute!
 
+*3 months later, I have the budget to build this out. Stay tuned!
+
 Aloha
